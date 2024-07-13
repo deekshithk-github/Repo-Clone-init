@@ -1,0 +1,3 @@
+i am changing git config file name 
+$ git config --global user.name "milky"
+$ git config --global user.email hellomilky@gmail.com
